@@ -1,0 +1,16 @@
+On the forth day, I learned an important concept of function.
+
+I learned various sorts of functions.
+    @ function with arguments
+    @ function without arguments
+    @ function with arguments and return type.
+    @ function with arguments but from another module.
+    @ function from another arguments without arguments
+    @ function with arguments and return type from another module.
+
+
+Apart from this , I also learned different kind of Operators.
+    # Comparison    
+    # Arithmatic    
+    # Logical   
+    # Special Operators ( "is" and "in" ) 
