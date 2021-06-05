@@ -1,0 +1,2 @@
+# I learned theory of selenium. We can use selenium as web scraper or we can implement selenium in automation.
+   python is idle programming language for selenium as it is user friendly and it resembles with english language up to great extent.
