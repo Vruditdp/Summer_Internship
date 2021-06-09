@@ -1,0 +1,2 @@
+# Connectivity with database ( sqlite3 ) and controlling admin panel
+# Displaying data on template.
